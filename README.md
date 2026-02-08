@@ -1,9 +1,5 @@
 # 🌐 AI Manifest: Algorithm vs Conscience
 
-![Version](https://img.shields.io)
-![React](https://img.shields.io)
-![Tailwind](https://img.shields.io)
-![Motion](https://img.shields.io)
 
 Интерактивное веб-исследование о том, как искусственный интеллект меняет правила игры в разработке, образовании и жизни.
 
